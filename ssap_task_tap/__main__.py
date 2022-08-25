@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for ssap_task_tap."""
 
 from .cli import main  # pragma: no cover
 

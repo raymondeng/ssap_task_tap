@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from ssap_task_tap.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "ssap_task_tap"
